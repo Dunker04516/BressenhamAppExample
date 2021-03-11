@@ -1,0 +1,15 @@
+C:\Users\gear0\source\repos\Brassenham\Brassenham\bin\Debug\netcoreapp3.1\Brassenham.exe
+C:\Users\gear0\source\repos\Brassenham\Brassenham\bin\Debug\netcoreapp3.1\Brassenham.deps.json
+C:\Users\gear0\source\repos\Brassenham\Brassenham\bin\Debug\netcoreapp3.1\Brassenham.runtimeconfig.json
+C:\Users\gear0\source\repos\Brassenham\Brassenham\bin\Debug\netcoreapp3.1\Brassenham.runtimeconfig.dev.json
+C:\Users\gear0\source\repos\Brassenham\Brassenham\bin\Debug\netcoreapp3.1\Brassenham.dll
+C:\Users\gear0\source\repos\Brassenham\Brassenham\bin\Debug\netcoreapp3.1\Brassenham.pdb
+C:\Users\gear0\source\repos\Brassenham\Brassenham\obj\Debug\netcoreapp3.1\Brassenham.csprojAssemblyReference.cache
+C:\Users\gear0\source\repos\Brassenham\Brassenham\obj\Debug\netcoreapp3.1\Brassenham.Form1.resources
+C:\Users\gear0\source\repos\Brassenham\Brassenham\obj\Debug\netcoreapp3.1\Brassenham.csproj.GenerateResource.cache
+C:\Users\gear0\source\repos\Brassenham\Brassenham\obj\Debug\netcoreapp3.1\Brassenham.AssemblyInfoInputs.cache
+C:\Users\gear0\source\repos\Brassenham\Brassenham\obj\Debug\netcoreapp3.1\Brassenham.AssemblyInfo.cs
+C:\Users\gear0\source\repos\Brassenham\Brassenham\obj\Debug\netcoreapp3.1\Brassenham.csproj.CoreCompileInputs.cache
+C:\Users\gear0\source\repos\Brassenham\Brassenham\obj\Debug\netcoreapp3.1\Brassenham.dll
+C:\Users\gear0\source\repos\Brassenham\Brassenham\obj\Debug\netcoreapp3.1\Brassenham.pdb
+C:\Users\gear0\source\repos\Brassenham\Brassenham\obj\Debug\netcoreapp3.1\Brassenham.genruntimeconfig.cache
